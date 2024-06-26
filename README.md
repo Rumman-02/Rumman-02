@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rumman-02
 - 👀 I’m interested in Sports
 - 🌱 I’m currently learning BSC
-- 💞️ I’m looking to collaborate on ...
+- 
 - 📫 How to reach me yaminkabir26@gmail.com
 
 <!---
